@@ -4,14 +4,9 @@
     box-sizing: border-box;
 }
 
-h1{
-    background-color:lightpink;
-    color:fuchsia;
-}
-
 header {
-    background-color: #333;
-    color: white;
+    background-color: palevioletred;
+    color: lightpink;
     padding: 20px;
     text-align: center;
 }
@@ -29,12 +24,12 @@ article {
     width: 100%;
     padding: 20px;
     margin-bottom: 16px;
-    background-color: #f4f4f4;
+    background-color: lightpink;
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: palevioletred;
+    color: lightpink;
     padding: 20px;
     margin-top: 24px;
     text-align: center;
